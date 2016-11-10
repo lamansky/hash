@@ -1,0 +1,19 @@
+{
+    "name": "lamansky/hash",
+    "description": "Hash",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Lamansky",
+            "email": "lamansky@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {"Lamansky\\Hash\\": "src/"}
+    }
+}
